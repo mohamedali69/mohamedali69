@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript and Machine Learning**
 
-- 👨‍💻 I’m currently working on **Clubs Managment Platform.**
+- 👨‍💻 I’m currently working on **Clubs Managment Platform**
 
-- 🔭 I’m looking for **an Internship or a new job opportunity.**
+- 🔭 I’m looking for **an Internship or a new job opportunity**
 
 - 📫 How to reach me **mohamedalichakhari6901@gmail.com**
 
