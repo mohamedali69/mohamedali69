@@ -11,7 +11,7 @@
 
 - 🔭 I’m looking for **an Internship or a new job opportunity**
 
-- 📫 How to reach me **mohamedalichakhari6901@gmail.com**
+- 📫 How to reach me **chakharimohamedali@isimm.u-monastir.tn**
 
 - 📄 Know about my experiences [https://mohamedalich.w3spaces.com/](https://mohamedalich.w3spaces.com/)
 
